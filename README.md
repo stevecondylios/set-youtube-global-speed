@@ -1,6 +1,6 @@
 
 
-# Set YouTube Global Speed
+# Set YouTube Global Speed <img src='icons/128.png' align="right" height="139" />
 
 This chrome extension makes YouTube default to 1.5x speed. 
 
