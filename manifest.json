@@ -3,7 +3,7 @@
   "name": "Set YouTube Global Speed",
   "description": "Automatically set all videos across YouTube to play at 1.5x speed",
   "version": "1.0",
-  "permissions": ["tabs", "activeTab", "storage"],
+  "permissions": ["tabs", "activeTab"],
   "background": {
     "service_worker": "background.js"
   },
