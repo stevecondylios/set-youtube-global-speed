@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "YouTube 1.5 Speed",
-  "description": "Make all videos on YouTube default to 1.5 speed",
+  "name": "Set YouTube Global Speed",
+  "description": "Automatically set all videos across YouTube to play at 1.5x speed",
   "version": "1.0",
   "permissions": ["tabs", "activeTab", "storage"],
   "background": {
